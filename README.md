@@ -1,5 +1,5 @@
 <!-- =========================================================  
-     SUPRAPTO — ULTIMATE DEVELOPER PORTFOLIO 
+     SUPRAPTO — PREMIUM ANIMATED PORTFOLIO 
 ========================================================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:134E4A,100:14B8A6&text=SUPRAPTO&fontColor=FFFFFF&fontSize=55&fontAlignY=32&desc=Junior%20Backend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Header" />
@@ -7,6 +7,9 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&height=45&lines=Building+scalable+backend+systems.;Designing+robust+RESTful+APIs.;Turning+logic+into+clean+code." alt="Typing animation" />
   </a>
+
+  <!-- Animated Glowing Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line">
 
   <p align="center">
     <b>Menulis kode yang bersih, membangun arsitektur yang solid, dan memecahkan masalah nyata.</b><br>
@@ -22,23 +25,16 @@
 
 <br>
 
-### 🛠️ Tech Stack & Tools Architecture
+### 💻 Premium Tech Stack
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Backend & Logic</b></td>
-      <td align="center"><b>Database & ORM</b></td>
-      <td align="center"><b>Tools & Deployment</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express&theme=dark" alt="Backend" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Database" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel&theme=dark" alt="Tools" /></td>
-    </tr>
-  </table>
+  <p><i>Teknologi yang saya gunakan untuk membangun sistem:</i></p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,mongodb,git,github,vscode,postman,vercel&theme=dark&perline=12" alt="Tech Stack" />
 </div>
 
 <br>
+
+<!-- Animated Glowing Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="glowing line">
 
 ### 🚀 Featured Projects
 <table bordercolor="#134E4A">
@@ -74,12 +70,11 @@
 
 <br>
 
-### 📊 GitHub Analytics & Activity
+### 📈 GitHub Analytics & Top Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suprapto-23&show_icons=true&hide_border=true&border_radius=10&bg_color=0F172A&title_color=14B8A6&icon_color=14B8A6&text_color=E2E8F0" height="165" alt="Stats" />
   <img src="https://streak-stats.demolab.com?user=Suprapto-23&hide_border=true&border_radius=10&background=0F172A&ring=14B8A6&fire=14B8A6&currStreakNum=E2E8F0&currStreakLabel=14B8A6&sideNums=E2E8F0&sideLabels=E2E8F0&dates=14B8A6" height="165" alt="Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suprapto-23&bg_color=0F172A&color=14B8A6&line=14B8A6&point=FFFFFF&area=true&hide_border=true&radius=10" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suprapto-23&layout=compact&hide_border=true&border_radius=10&bg_color=0F172A&title_color=14B8A6&text_color=E2E8F0" height="165" alt="Top Langs" />
 </div>
 
 <div align="center">
